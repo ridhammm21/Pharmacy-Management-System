@@ -20,10 +20,8 @@ A desktop-based Pharmacy Management System built using **Python** and **Tkinter*
 
 ## 🖼️ Screenshots
 
-> *(Add your screenshots in the `/screenshots` folder and use the format below to display them)*
-
-![Home Screen](screenshots/home.png)
-![Billing Page](screenshots/billing.png)
+![Home Screen](ScreenShots/home.png)
+![Billing Page](ScreenShots/billing.png)
 
 ## 🚀 Getting Started
 
@@ -33,3 +31,11 @@ A desktop-based Pharmacy Management System built using **Python** and **Tkinter*
 - Required libraries:
   ```bash
   pip install tk
+
+### ▶️ Steps to Run
+
+1. Clone the repository or download the ZIP folder.
+2. Navigate to the project directory.
+3. Run the following command:
+   ```bash
+   python main2.py
