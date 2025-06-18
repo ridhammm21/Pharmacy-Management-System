@@ -20,8 +20,8 @@ A desktop-based Pharmacy Management System built using **Python** and **Tkinter*
 
 ## 🖼️ Screenshots
 
-![Home Screen](ScreenShots/home.png)
-![Billing Page](ScreenShots/billing.png)
+![Home Screen](ScreenShots/pharmacy.png)
+![Billing Page](ScreenShots/Billing.png)
 
 ## 🚀 Getting Started
 
