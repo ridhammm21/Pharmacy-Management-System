@@ -1,24 +1,24 @@
-# 💊 Pharmacy Management System
+# Pharmacy Management System
 
 A desktop-based Pharmacy Management System built using **Python** and **Tkinter** to manage medicines, sales, customers, and billing. Designed for small to mid-sized medical stores to maintain inventory efficiently and improve transaction handling.
 
-## 📌 Features
+## Features
 
-- 🧾 Add, update, delete medicines
-- 📦 Real-time inventory management
-- 👤 Customer record management
-- 💰 Bill generation and sales tracking
-- 🔍 Search functionality for medicines
-- 📊 Summary of daily transactions
-- 🖥️ GUI using Tkinter for easy interaction
+- Add, update, delete medicines
+- Real-time inventory management
+- Customer record management
+- Bill generation and sales tracking
+- Search functionality for medicines
+- Summary of daily transactions
+- GUI using Tkinter for easy interaction
 
-## 🛠️ Tech Stack
+## 🛠Tech Stack
 
 - **Language:** Python
 - **GUI Library:** Tkinter
-- **Database:** SQLite (or file-based storage, if used)
+- **Database:** MySQL
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -27,7 +27,7 @@ A desktop-based Pharmacy Management System built using **Python** and **Tkinter*
   ```bash
   pip install tk
 
-### ▶️ Steps to Run
+### ▶Steps to Run
 
 1. Clone the repository or download the ZIP folder.
 2. Navigate to the project directory.
@@ -35,7 +35,7 @@ A desktop-based Pharmacy Management System built using **Python** and **Tkinter*
    ```bash
    python main2.py
 
-## 📸 Screenshots
+## Screenshots
 
 | Home Screen | Billing Page |
 |-------------|--------------|
