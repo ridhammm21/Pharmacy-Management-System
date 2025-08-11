@@ -18,11 +18,6 @@ A desktop-based Pharmacy Management System built using **Python** and **Tkinter*
 - **GUI Library:** Tkinter
 - **Database:** SQLite (or file-based storage, if used)
 
-## 🖼️ Screenshots
-
-![Home Screen](ScreenShots/pharmacy.png)
-![Billing Page](ScreenShots/Billing.png)
-
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -39,3 +34,13 @@ A desktop-based Pharmacy Management System built using **Python** and **Tkinter*
 3. Run the following command:
    ```bash
    python main2.py
+
+## 🖼️ Screenshots
+
+| Home Screen | Billing Page |
+|-------------|--------------|
+| <img src="ScreenShots/pharmacy.png" alt="Home Screen" width="300"/> | <img src="ScreenShots/Billing.png" alt="Billing Page" width="300"/> |
+
+
+
+
