@@ -35,12 +35,10 @@ A desktop-based Pharmacy Management System built using **Python** and **Tkinter*
    ```bash
    python main2.py
 
-## 🖼️ Screenshots
+## 📸 Screenshots
 
 | Home Screen | Billing Page |
 |-------------|--------------|
-| <img src="ScreenShots/pharmacy.png" alt="Home Screen" width="300"/> | <img src="ScreenShots/Billing.png" alt="Billing Page" width="300"/> |
-
-
+| ![Home Screen](ScreenShots/pharmacy.png) | ![Billing Page](ScreenShots/Billing.png) |
 
 
