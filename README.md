@@ -12,7 +12,7 @@ A desktop-based Pharmacy Management System built using **Python** and **Tkinter*
 - Summary of daily transactions
 - GUI using Tkinter for easy interaction
 
-## 🛠Tech Stack
+## Tech Stack
 
 - **Language:** Python
 - **GUI Library:** Tkinter
@@ -27,7 +27,7 @@ A desktop-based Pharmacy Management System built using **Python** and **Tkinter*
   ```bash
   pip install tk
 
-### ▶Steps to Run
+### Steps to Run
 
 1. Clone the repository or download the ZIP folder.
 2. Navigate to the project directory.
